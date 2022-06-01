@@ -1,0 +1,10 @@
+﻿  calcRakovDlg.cpp
+C:\Users\MiRaXL\source\repos\calcRakov\calcRakovDlg.cpp(201): warning C4244: =: преобразование "double" в "float", возможна потеря данных
+C:\Users\MiRaXL\source\repos\calcRakov\calcRakovDlg.cpp(208): warning C4244: =: преобразование "double" в "float", возможна потеря данных
+C:\Users\MiRaXL\source\repos\calcRakov\calcRakovDlg.cpp(215): warning C4244: =: преобразование "double" в "float", возможна потеря данных
+C:\Users\MiRaXL\source\repos\calcRakov\calcRakovDlg.cpp(222): warning C4244: =: преобразование "double" в "float", возможна потеря данных
+C:\Users\MiRaXL\source\repos\calcRakov\calcRakovDlg.cpp(243): warning C4244: =: преобразование "double" в "float", возможна потеря данных
+C:\Users\MiRaXL\source\repos\calcRakov\calcRakovDlg.cpp(253): warning C4244: =: преобразование "double" в "float", возможна потеря данных
+C:\Users\MiRaXL\source\repos\calcRakov\calcRakovDlg.cpp(262): warning C4244: =: преобразование "double" в "float", возможна потеря данных
+C:\Users\MiRaXL\source\repos\calcRakov\calcRakovDlg.cpp(272): warning C4244: =: преобразование "double" в "float", возможна потеря данных
+  calcRakov.vcxproj -> C:\Users\MiRaXL\source\repos\calcRakov\Debug\calcRakov.exe
